@@ -1,0 +1,2 @@
+# numbersprintable
+this project is to print with laser jet printer 1102w double-sided, first place the number of sheets that has the file in the application and then copy the odd numbers i send it to print, with the option labeled "select per page "after you finish the impression changed down the printed sheets, and rotate 180 ° and copy couple numbers and send to print with the option marked and copied from" select per page "and send to print. then we printed sheets printed double-sided.
